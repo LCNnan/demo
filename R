@@ -1,31 +1,5 @@
-git demo  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+git demo
+vim READEME.md  ---first  
 
 
 
